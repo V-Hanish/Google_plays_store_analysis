@@ -31,14 +31,16 @@ Most apps cluster between 4.0 and 4.5 stars — competition for user satisfactio
 
 ## Dashboard Pages
 ### Overview
-![Overview](<img width="1534" height="904" alt="Overview" src="https://github.com/user-attachments/assets/b70e5f7d-ea7c-4fc2-91e2-cb47d08e8e92" />)
+![Overview](images/Overview.png)
 
 ### Genre Analysis
-![Genre Analysis](<img width="1542" height="911" alt="Genre Analysis" src="https://github.com/user-attachments/assets/edf90e60-1ad6-47f6-b1a5-498036e2250e" />)
+<img width="1542" height="911" alt="Genre Analysis" src="https://github.com/user-attachments/assets/edf90e60-1ad6-47f6-b1a5-498036e2250e" />
 
 ### Ratings & Reviews
-![Rating & Reviews](<img width="1528" height="908" alt="Rating   Review" src="https://github.com/user-attachments/assets/e01b840d-893d-4df9-a881-00b2105a6d3a" />)
+<img width="1528" height="908" alt="Rating   Review" src="https://github.com/user-attachments/assets/e01b840d-893d-4df9-a881-00b2105a6d3a" />
 
+### Size
+![Size](images/Size.png)
 
 ## Files in This Repository
 
